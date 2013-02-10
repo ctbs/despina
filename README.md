@@ -1,4 +1,4 @@
 despina
 =======
 
-An open source .NET library for accessing Google Cloud Messaging
+An open source .NET library for Google Cloud Messaging
